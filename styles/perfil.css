@@ -1,0 +1,10 @@
+.perfil{
+    display: flex;
+    justify-content: center;
+}
+
+.perfil img{
+    width: 20%;
+    border-radius: 50%;
+
+}
