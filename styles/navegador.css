@@ -1,5 +1,5 @@
 #navegador {
-    background-color: #e73a3a;
+    background-color: #fc4949;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -49,5 +49,4 @@
   .icono-gmail:hover {
     color: rgb(216, 213, 29);
   }
-  
   
