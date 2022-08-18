@@ -1,0 +1,16 @@
+#navegador {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#navegador ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+#navegador li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+ }
